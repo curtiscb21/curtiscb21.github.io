@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Marshall Museum
-description: Pursue your dream
+description: The Five Stars that Changed the World
 permalink: /
 order: 1
 ---
