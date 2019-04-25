@@ -8,13 +8,11 @@ order: 1
 
 # React Simple Chatbot
 
-<a href="https://travis-ci.org/LucasBassetti/react-simple-chatbot"><img src="https://travis-ci.org/LucasBassetti/react-simple-chatbot.svg?branch=master" alt="Travis CI" /></a> <a href="https://badge.fury.io/js/react-simple-chatbot"><img src="https://badge.fury.io/js/react-simple-chatbot.svg" alt="npm version"></a>
-  <img src="MarshallFoundation102418_018-1-1-e1541104538731.jpg" />
-</a> <a href="https://beerpay.io/LucasBassetti/react-simple-chatbot"><img src="https://beerpay.io/LucasBassetti/react-simple-chatbot/badge.svg?style=flat" /></a>
+
 
 A simple chatbot component to create conversation chats
 
-<img src="https://cloud.githubusercontent.com/assets/1014326/25716667/2d4bb4c4-30d6-11e7-996e-30c8fb316361.gif" height="400" />
+<img src="https://en.wikipedia.org/wiki/File:Marshall.Foundation.JPG" height="400" />
 
 ## Getting Start
 
